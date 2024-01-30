@@ -3856,7 +3856,7 @@ column-gap: 30px;
 
 grid-template-rows: auto;
 
-grid-template-areas: 'title-one title-two' 'desc-one desc-two';
+grid-template-areas: 'title-one' 'desc-one' 'title-two' 'desc-two';
 
 }
 }
