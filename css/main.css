@@ -3860,7 +3860,7 @@ grid-template-areas: 'title-one' 'desc-one' 'title-two' 'desc-two';
 
 }
 }
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 1920px) {
   .about__skills {
     display: grid;
 
