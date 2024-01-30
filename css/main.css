@@ -3894,7 +3894,7 @@ align-items: center;
 margin-bottom: 84px;
 
 }
-@media only screen and (max-width: 1559px) {
+@media only screen and (max-width: 1920px) {
   .about__skill-title {
     margin-bottom: 30px;
   }
