@@ -3924,7 +3924,7 @@ top: .1em;
 
 }
 
-@media only screen and (max-width: 1559px) {
+@media only screen and (max-width: 1920px) {
   .about__skill-desc-one {
     margin-bottom: 40px;
   }
