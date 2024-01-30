@@ -3799,7 +3799,7 @@ grid-template-areas: 'title img-wrapper work-info' 'skills img-wrapper work-info
 .about__title {
   grid-area: title;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1920px) {
   .about__title {
     margin-bottom: 60px;
   }
