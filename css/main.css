@@ -3932,7 +3932,7 @@ top: .1em;
 .about__skill-desc-two {
   grid-area: desc-two;
 }
-@media only screen and (max-width: 1559px) {
+@media only screen and (max-width: 1920px) {
   .about__skill-desc-two {
     margin-bottom: 40px;
   }
